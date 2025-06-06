@@ -2,7 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="@drawable/img2"
+    android:background="@drawable/pixel9"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -37,6 +37,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="300dp"
         android:text="@string/share_my_lucky_number"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
