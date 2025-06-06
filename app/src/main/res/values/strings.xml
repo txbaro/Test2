@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="wish_me_lucky">Wish me lucky</string>
+    <string name="wish_me_luck">Wish me luck!</string>
+    <string name="welcome_to_lucky_number">Welcome to Lucky Number</string>
+    <string name="your_lucky_number_is">YOUR LUCKY NUMBER IS:</string>
+    <string name="share_my_lucky_number">Share my lucky number</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
